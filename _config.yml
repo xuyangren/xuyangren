@@ -15,7 +15,7 @@ name                     : &name "Xuyang Ren"
 description              : &description "personal description"
 url                      : https://xuyangren.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xuyangren/xuyangren.github.io"
+repository               : "xuyangren.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,10 +23,10 @@ repository               : "xuyangren/xuyangren.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "任旭阳"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Hongkong"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "xuyang.ren.cn@gmail.com" 
