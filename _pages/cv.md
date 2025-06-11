@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biorobotics at Scuola Superiore Sant’Anna, 2019-2023
+* M.S. in Mechanical Engineering, Tianjin University, 2019
+* B.S. in Mechanical Engineering, Tianjin University, 2016
 
 Work experience
 ======
